@@ -1,3 +1,3 @@
-# Strapi application
+# Events app strapi backend
 
-A quick description of your strapi application
+Strapi backend for event app. Front-end repository (Next JS) can be found [here](https://github.com/kryptondv/nextjs-events-app)
