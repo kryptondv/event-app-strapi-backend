@@ -9,7 +9,7 @@ module.exports = ({ env }) => ({
     },
     actionOptions: {
       upload: {
-        folder: "folder-name",
+        folder: "events",
       },
       delete: {},
     },
